@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tama1105/todoapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tama1105/todoapp/issues"
+  },
+  "homepage": "https://github.com/tama1105/todoapp#readme",
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
+}

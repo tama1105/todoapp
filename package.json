@@ -30,6 +30,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
+    "@material-ui/core": "^3.9.2",
     "nedb": "^1.8.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
